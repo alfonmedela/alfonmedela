@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![bventure](elcorreo.jpg)
 <img src="elcorreo.jpg" alt="Pitch B-Venture" width="1024" height="632">
 
