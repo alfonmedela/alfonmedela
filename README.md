@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="elcorreo.jpg" alt="Pitch B-Venture" width="824" height="632">
+<img src="elcorreo.jpg" alt="Pitch B-Venture" width="824" height="508">
 
