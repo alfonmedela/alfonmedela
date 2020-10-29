@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <img src="elcorreo.jpg" alt="Pitch B-Venture" width="824" height="508">
 
+[My personal webpage](https://alfonsomedela.com/)
