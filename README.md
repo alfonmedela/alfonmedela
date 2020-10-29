@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="profile.JPG" alt="Pitch B-Venture" width="824" height="508">
+<img src="profile.JPG" alt="Pitch B-Venture" width="824" height="594">
 
 # [alfonsomedela.com](https://alfonsomedela.com/)
