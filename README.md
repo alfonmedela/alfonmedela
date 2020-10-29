@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![bventure](elcorreo.jpg)
+
+[My personal website](https://alfonsomedela.com/)
