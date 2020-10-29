@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![bventure](elcorreo.jpg)
-<img src="elcorreo.jpg" alt="Pitch B-Venture" width="1024" height="385">
+<img src="elcorreo.jpg" alt="Pitch B-Venture" width="1024" height="632">
 
-[My personal website](https://alfonsomedela.com/)
