@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![bventure](elcorreo.jpg)
+<img src="elcorreo.jpg" alt="Pitch B-Venture">
 
 [My personal website](https://alfonsomedela.com/)
