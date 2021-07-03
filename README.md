@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 # My personal website [alfonsomedela.com](https://alfonsomedela.com/)
 # Chief AI Officer at [Legit.Health](https://legit.health/)
 
-
-[img](LegitHealth-logo.png)
+<img src="LegitHealth-logo.png" width="500" height="70" />
