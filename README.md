@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <img src="elcorreo.jpg" alt="Pitch B-Venture" width="624" height="385">
 
 # My personal website [alfonsomedela.com](https://alfonsomedela.com/)
-# Chief AI Officer at [Legit.Health](https://legit.health/)
+## Chief AI Officer at [Legit.Health](https://legit.health/)
 
 <img src="LegitHealth-logo.png" width="500" height="70" />
