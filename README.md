@@ -1,4 +1,4 @@
-### Welcome to my Github! 💻🩺
+### Welcome to Alfonso Medela's Github!
 
 <!--
 **alfonmedela/alfonmedela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
