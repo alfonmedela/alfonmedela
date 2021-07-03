@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <img src="profile.JPG" alt="Pitch B-Venture" width="824" height="594">
 
 # My personal website [alfonsomedela.com](https://alfonsomedela.com/)
-# [Legit.Health](https://legit.health/)
+# Chief AI Officer at [Legit.Health](https://legit.health/)
