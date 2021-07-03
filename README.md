@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ## Chief AI Officer at [Legit.Health](https://legit.health/)
 <img src="LegitHealth-logo.png" width="500" height="70" />
 
-## sss
+## [Webinars](https://www.youtube.com/watch?v=WsUU6BNanfY&list=PLZl2Y4CljnAwnXV4iXbRmMiBBUZn72e6N&index=3)
+## [Scientific articles](https://scholar.google.com/citations?user=3zx75AUAAAAJ&hl=en)
