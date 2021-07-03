@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img src="LegitHealth-logo.png" width="500" height="70" />
 
 ## Few-shot Learning [webinar](https://www.youtube.com/watch?v=WsUU6BNanfY&list=PLZl2Y4CljnAwnXV4iXbRmMiBBUZn72e6N&index=3)
-## [Scientific articles](https://scholar.google.com/citations?user=3zx75AUAAAAJ&hl=en)
+## [Scientific publications](https://scholar.google.com/citations?user=3zx75AUAAAAJ&hl=en)
