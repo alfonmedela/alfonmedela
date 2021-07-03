@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="elcorreo.jpg" alt="Pitch B-Venture" width="824" height="594">
+<img src="elcorreo.jpg" alt="Pitch B-Venture" width="624" height="385">
 
 # My personal website [alfonsomedela.com](https://alfonsomedela.com/)
 # Chief AI Officer at [Legit.Health](https://legit.health/)
