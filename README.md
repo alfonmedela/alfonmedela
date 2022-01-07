@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![img](GiantHealthFestival.jpeg)
 <img src="GiantHealthFestival.jpeg" alt="Pitch B-Venture" width="624" height="385">
 
 # [Alfonso Medela](https://alfonsomedela.com/)
