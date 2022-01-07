@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="elcorreo.jpg" alt="Pitch B-Venture" width="624" height="385">
+<img src="GiantHealthFestival.jpeg" alt="Pitch B-Venture" width="624" height="385">
 
 # [Alfonso Medela](https://alfonsomedela.com/)
 ## 👨🏽‍💻 Chief AI Officer at [Legit.Health](https://legit.health/)
