@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [![Foo](https://alfonsomedela.com/wp-content/uploads/2022/04/MG_1233-scaled.jpg?id=2969)](https://www.youtube.com/watch?v=C2rTyASeaYg&t=9s)
 
-![img](https://alfonsomedela.com/wp-content/uploads/2022/04/MG_1233-scaled.jpg?id=2969)
-
 # [Alfonso Medela](https://alfonsomedela.com/)
 ## 👨🏽‍💻 Chief AI Officer at [Legit.Health](https://legit.health/)
 ## 📺 Few-shot Learning [webinar](https://www.youtube.com/watch?v=WsUU6BNanfY&list=PLZl2Y4CljnAwnXV4iXbRmMiBBUZn72e6N&index=3)
